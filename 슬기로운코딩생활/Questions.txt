@@ -1,1 +1,12 @@
-1. p1.1 carousel size 줄이기
+1. p1.1 carousel size 줄이기 / 가능은 함. 스타일 속성
+2. p1.1 chart size 맞추기 (과제 파일이랑 별다른 게 없는데 사이즈가 다름!!!! ㅡㅡ)
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>   
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+3. 왜 row, container div를 따로 만들어야하지? / 그냥 그렇게 해야됨.....
+4. 표 텍스트 가운데 정렬 / style = "text-align:center" OR class = "text-center"
+
+5. p1.2 사진 크기 조절
+6. toggle 아래로 내리기
+7. p2.1 페이지 아래로 내려가는 기준? 언제는 아래로 내려가고
+   언제는 자동으로 옆에 배치됨(ex 버튼 여러개 배치시)
