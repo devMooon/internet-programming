@@ -1,0 +1,79 @@
+>> 기본 정보
+이름		name
+품번		number 
+설명		description //markdown
+
+작성시간		created_at
+업데이트시간	updated_at 
+작성자		author 
+
+
+
+>> 가격
+정상가
+할인율
+판매가
+
+first_cost
+discount_rate
+sale_price
+
+
+>>이미지
+대표이미지
+상세이미지 1
+상세이미지 2
+상세이미지 3
+
+head_image
+body_image_1
+body_image_2
+body_image_3
+
+
+>>기타
+카테고리
+제조사
+태그
+
+category
+manufacturer
+tags
+
+
+
+
+
+
+
+아이콘(이미지)
+
+>>이름
+이름
+슬러그
+
+>>주소
+주소
+홈페이지주소
+
+>>연락처
+이메일
+고객센터
+
+>>기타
+제조사 설명
+
+
+
+
+name
+slug
+icon
+
+address
+web_address 
+
+e_mail
+customer_service_phone_num
+
+description 
